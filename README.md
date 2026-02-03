@@ -93,7 +93,8 @@ If you have questions about this Privacy Policy or privacy requests, contact:
 
 **Developer/Company:**Ihar Pronka
 **Email:** oknorpcorp@gmail.com
-## 13. Data Deletion Requests {#data-deletion}
+<a id="data-deletion"></a>
+## 13. Data Deletion Requests
 
 If you want to request deletion of your data, please contact us at:
 
