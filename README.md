@@ -93,4 +93,12 @@ If you have questions about this Privacy Policy or privacy requests, contact:
 
 **Developer/Company:**Ihar Pronka
 **Email:** oknorpcorp@gmail.com
+## 13. Data Deletion Requests {#data-deletion}
 
+If you want to request deletion of your data, please contact us at:
+
+**oknorpcorp@gmail.com**
+
+Subject line recommendation: **"Data Deletion Request — Bloom Vibe AI"**
+
+We will review and process your request within a reasonable timeframe, in accordance with applicable law.
