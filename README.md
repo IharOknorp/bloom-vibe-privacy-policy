@@ -1,9 +1,9 @@
-# Privacy Policy — Vibe Voyage AI
+# Privacy Policy — BloomVibe
 
 **Effective date:** February 7, 2026  
 **Last updated:** February 7, 2026
 
-This Privacy Policy explains how **Vibe Voyage AI** (“we”, “us”, “our”) collects, uses, and shares information when you use the mobile application **Vibe Voyage AI** (package: `com.oknorp.online.vibevoyageai`).
+This Privacy Policy explains how **BloomVibe** (“we”, “us”, “our”) collects, uses, and shares information when you use the mobile application **BloomVibe** (package: `com.oknorp.online.vibevoyageai`).
 
 By using the app, you agree to this Privacy Policy.
 
